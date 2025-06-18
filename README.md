@@ -1,4 +1,4 @@
-<h1 align="left">👋 Welcome to My GitHub!</h1>
+<h1 align="left">👋 Hello world! Welcome to My GitHub</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Sou de Mauá, São Paulo<br>📚 Estudante de Segurança da Informação<br>🎯 Criando projetos para aprimorar as minhas habilidades.</p>
+<p align="left">✨ Sou de Mauá, São Paulo<br>📚 Estudante de Segurança da Informação<br>📚 Técnica em Desenvolvimento de Sistemas<br>🎯 Criando projetos para aprimorar as minhas habilidades</p>
 
 ###
 
